@@ -1,5 +1,3 @@
-This is a new README! Testing github!
-
-This is a test project!
+This is a new README! 
 
 Adding changes from the gui.
